@@ -10,8 +10,6 @@
 
 <br/>
 
-<img src="assets/black-cat-banner.svg" width="100%" />
-
 </div>
 
 ---
