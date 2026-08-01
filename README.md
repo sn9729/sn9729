@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-synrao%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailtosynrao@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mailtosynrao%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailtosynrao@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sxujxy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sxujxy)
 [![GitHub](https://img.shields.io/badge/GitHub-sn9729-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sn9729)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sanjayn.pages.dev-14b8a6?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://sanjayn.pages.dev)
@@ -161,7 +161,6 @@ Check out the repositories below for source code, documentation, and more projec
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sn9729&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"Deploy it, break it, heal it, learn from it."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
