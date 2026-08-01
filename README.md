@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sanjay%20N&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sanjay%20N&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A9B7FF&center=true&vCenter=true&width=560&lines=Building+self-healing+cloud+infrastructure;Shipping+RAG+%2B+LLM-powered+applications;AI+%2B+DevOps+%7C+Python+%2F+C%2B%2B+%2F+C;Always+learning%2C+always+deploying" alt="Typing SVG" /></a>
+<img src="assets/cat-running-banner.svg" width="100%" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-mailtosynrao%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailtosynrao@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mailtosynrao%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtosynrao@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sxujxy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sxujxy)
 [![GitHub](https://img.shields.io/badge/GitHub-sn9729-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sn9729)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sanjayn.pages.dev-14b8a6?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://sanjayn.pages.dev)
@@ -161,6 +161,7 @@ Check out the repositories below for source code, documentation, and more projec
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sn9729&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
 
+*"Deploy it, break it, heal it, learn from it."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
